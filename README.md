@@ -6,8 +6,6 @@ For content or product suggestions, please use the appropriate channels, usually
 
 Navigate to [**Issues**](https://github.com/SuperOfficeDocs/feedback/issues) and open a new issue with all the relevant details. We will triage those as soon as possible.
 
-![Adding a GitHub issue](img/add-issue.gif)
-
 ## Code of Conduct
 
 Be nice, respectful and kind.
