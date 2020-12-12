@@ -8,10 +8,6 @@ assignees: ''
 ---
 
 <!--
-HUBBERS BEWARE! THE SUPEROFFICEDOCS/DOCS REPO IS PUBLIC TO THE ENTIRE INTERNET. OPEN AN ISSUE IN SUPEROFFICEDOCS/DOCS-CONTENT INSTEAD.
--->
-
-<!--
 For questions, ask in Discussions: https://github.com/superofficedocs/superoffice-docs/discussions
 
 Before you file an issue read the:
