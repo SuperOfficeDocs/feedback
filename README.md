@@ -8,7 +8,7 @@ Navigate to [**Issues**](https://github.com/SuperOfficeDocs/feedback/issues) and
 
 ## Code of Conduct
 
-Be nice, respectful and kind.
+Be nice, respectful and kind. Please read of full Code of Conduct in the [`Contribution`](https://github.com/SuperOfficeDocs/contribution/blob/main/CODE_OF_CONDUCT.md) repository.
 
 ## Questions
 
